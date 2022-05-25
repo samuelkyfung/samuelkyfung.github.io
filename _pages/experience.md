@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Research experience
-===
+## Research experience
+
 * **The University of Texas at Austin | Department of Geological Sciences** <br>
 *Graduate Student Researcher in Prof. Zong-Liang Yang and Prof. Dev Niyogi groups* <br>
 *Fall 2018 - Now* 
@@ -32,8 +32,8 @@ Research experience
 *Summer 2015*
 
 
-Teaching Experience
-===
+## Teaching Experience
+
   * **The University of Texas at Austin**
     * Climate: Past, Present, Future 
       * Spring 2020: Lead Teaching Assitant
