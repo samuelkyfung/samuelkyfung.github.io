@@ -12,7 +12,7 @@ Scholarships and Awards
 * 2021, Brundrett Memorial EPS Fellowship \| The University of Texas at Austin
 * 2021, Second Place in Student Research Symposium Oral Presentation \| The University of Texas at Austin
 * 2020, Outstanding Teaching Assistant Award \| The University of Texas at Austin
-* 2017, Outstanding Student Paper Award | American Geophysical Union
+* 2017, Outstanding Student Paper Award \| American Geophysical Union
 * 2014, 2017 Talent Development Scholarship \| The Government of the HKSAR
 * 2015, 2016, Dean's Honours List \| The Chinese University of Hong Kong
 * 2016, Chung Chi College Class Scholarship \| The Chinese University of Hong Kong
