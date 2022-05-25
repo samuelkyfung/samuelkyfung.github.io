@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Research experience
-======
+===
 * **The University of Texas at Austin | Department of Geological Sciences** <br>
 *Graduate Student Researcher in Prof. Zong-Liang Yang and Prof. Dev Niyogi groups* <br>
 *Fall 2018 - Now* 
@@ -31,8 +31,9 @@ Research experience
 *Research Intern in Development Team*<br>
 *Summer 2015*
 
+
 Teaching Experience
-======
+===
   * **The University of Texas at Austin**
     * Climate: Past, Present, Future 
       * Spring 2020: Lead Teaching Assitant
@@ -45,23 +46,3 @@ Teaching Experience
       * Spring 2017
     * Global Environmental Change
       * Fall 2016
-
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
