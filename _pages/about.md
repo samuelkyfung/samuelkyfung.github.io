@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
 ## About me
 
 I am a Ph.D. candidate studying urban feedbacks on extreme weather. There are multiple projects I am working on now. 
