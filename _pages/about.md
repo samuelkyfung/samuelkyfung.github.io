@@ -9,10 +9,10 @@ redirect_from:
 ---
 # About me
 
-I am a Ph.D. candidate studying urban feedbacks on extreme weather. I am working on multiple projects now: 
-  1. The importance of detail urban characterization on simulating extreme rainfall.
+I am a Ph.D. candidate studying urban feedbacks on extreme weather. I have received a the Future Investigator in NASA Earth and Space Science and Technology (FINESST) for the research on the effect of urban resilience enhancing strategies on modulating extreme rainfall in Houston. I am working on multiple projects now: 
+  1. The importance of detail urban characterization in simulating extreme rainfall.
   2. The impact of urbanization on tornados.
-  3. The impact of Urban Heat Island mitigation strategies on extreme rainfall.
+  3. The effect of urban resilience enhancing strategies on Houston extreme rainfall.
 
 # Education
 
