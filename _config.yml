@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "FUNG, Kwun Yip (Samuel)"
 title_separator          : "-"
 name                     : &name "FUNG, Kwun Yip (Samuel)"
-description              : &description "Ph.D. candidate, \nDepartment of Geological Sciences, \nJackson School of Geosciences, \nThe University of Texas at Austin"
+description              : &description "Ph.D. candidate, Department of Geological Sciences, Jackson School of Geosciences, The University of Texas at Austin"
 url                      : https://samuelkyfung.github.io/site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samuelkyfung/site"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "FUNG, Kwun Yip (Samuel)"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate, Department of Geological Sciences, Jackson School of Geosciences, The University of Texas at Austin"
+  bio              : "Ph.D. candidate, \nDepartment of Geological Sciences, \nJackson School of Geosciences,\nThe University of Texas at Austin"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
