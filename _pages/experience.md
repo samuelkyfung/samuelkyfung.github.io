@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Research experience
+# Research experience
 
 * **The University of Texas at Austin | Department of Geological Sciences** <br>
 *Graduate Student Researcher in Prof. Zong-Liang Yang and Prof. Dev Niyogi groups* <br>
@@ -32,7 +32,7 @@ redirect_from:
 *Summer 2015*
 
 
-## Teaching Experience
+# Teaching Experience
 
   * **The University of Texas at Austin**
     * Climate: Past, Present, Future 
