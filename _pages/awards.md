@@ -5,8 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
-Scholarships and Awards 
-======
+# Scholarships and Awards 
+
 * 2020-2023, Future Investigators in NASA Earth and Space Science and Technology (FINESST) fellowship
 * 2022, Second Place in American Meteorological Society Annual Meeting Oral Presentation 
 * 2021, Brundrett Memorial EPS Fellowship \| The University of Texas at Austin
