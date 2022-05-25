@@ -19,8 +19,8 @@ I am a Ph.D. candidate studying urban feedbacks on extreme weather. There are mu
 ## Education
 
 **The University of Texas at Austin** \
-Ph.D. Candidate, Jackson School of Geosciences 
+Ph.D. Candidate, Jackson School of Geosciences, 2023 (expected) 
 
 **The Chinese University of Hong Kong** \
-M.Phil., Earth and Atmospheric Sciences \
-B.Sc., Earth System Science
+M.Phil., Earth and Atmospheric Sciences, 2018 \
+B.Sc., Earth System Science, 2016
