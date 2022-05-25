@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About me
 
-I am a Ph.D. candidate studying urban feedbacks on extreme weather. There are multiple projects I am working on now. 
+I am a Ph.D. candidate studying urban feedbacks on extreme weather. I am working on multiple projects now: 
   1. Investigating the importance of detail urban characterization on simulating extreme rainfall.
   2. Understanding urbanization impact on tornados.
   3. Impact of Urban Heat Island mitigation strategies on extreme rainfall.
