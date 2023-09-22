@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About me
 
-I am a Postdoctoral Associate in the Department of RSMAS - CIMAS at the University of Miami working on planetary boundary layer dynamics and hurricane studies. I am also affiliated with Hurricane Research Division in AMOL/NOAA.
+I am a Postdoctoral Associate in the Department of RSMAS - CIMAS at the University of Miami working on planetary boundary layer dynamics and hurricane studies. I am also affiliated with Hurricane Research Division in AMOL, NOAA.
 
 # Education
 
