@@ -14,7 +14,7 @@ I am a Postdoctoral Associate in the Department of RSMAS - CIMAS at the Universi
 # Education
 
 * **The University of Texas at Austin** \
-Ph.D. Candidate, Jackson School of Geosciences, 2023 
+Ph.D., Jackson School of Geosciences, 2023 
 
 * **The Chinese University of Hong Kong** \
 M.Phil., Earth and Atmospheric Sciences, 2018 \
