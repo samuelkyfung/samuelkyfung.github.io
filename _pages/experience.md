@@ -13,7 +13,7 @@ redirect_from:
 
 * **The University of Texas at Austin | Department of Geological Sciences** <br>
 *Graduate Student Researcher in Prof. Zong-Liang Yang and Prof. Dev Niyogi groups* <br>
-*Fall 2018 - Now* 
+*Fall 2018 - Summer 2019* 
 
 * **Purdue University | Department of Agronomy** <br>
 *Summer Visitor in Prof. Dev Niyogi group*<br>
