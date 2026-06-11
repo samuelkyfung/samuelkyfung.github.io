@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-# Scholarships and Awards 
+# Awards 
 
 * 2020-2023, Future Investigators in NASA Earth and Space Science and Technology (FINESST) fellowship
 * 2022, Second Place in American Meteorological Society Annual Meeting Oral Presentation 
