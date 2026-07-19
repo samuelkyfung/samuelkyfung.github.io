@@ -18,7 +18,7 @@ redirect_from:
 # Research experience
 
 * **Princeton University | Atmospheric and Oceanic Sciences** <br>
-*Postdoctoral Associate <br>
+*Postdoctoral Reserach Associate <br>
 *Jul 2026 - present* 
 
 * **University of Miami | CIMAS ; Atlantic Oceanographic and Meteorological Laboratory | Hurricane Reserach Division** <br>
