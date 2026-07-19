@@ -9,37 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
+# Education
+
+* Ph.D. in Geological Sciences, The University of Texas at Austin, 2023 
+* M.Phil. in Earth and Atmospheric Sciences, The Chinese University of Hong Kong, 2018
+* B.Sc. in Earth System Science, The Chinese University of Hong Kong, 2016
+
 # Research experience
 
-* **The University of Texas at Austin | Department of Geological Sciences** <br>
-*Graduate Student Researcher in Prof. Zong-Liang Yang and Prof. Dev Niyogi groups* <br>
-*Fall 2018 - Summer 2019* 
+* **Princeton University | Atmospheric and Oceanic Sciences** <br>
+*Postdoctoral Associate <br>
+*Jul 2026 - present* 
+
+* **University of Miami | CIMAS ; Atlantic Oceanographic and Meteorological Laboratory | Hurricane Reserach Division** <br>
+*Postdoctoral Associate <br>
+*Sep 2023 - Jun 2026* 
 
 * **Purdue University | Department of Agronomy** <br>
-*Summer Visitor in Prof. Dev Niyogi group*<br>
-*Summer 2019*
+*Summer Visitor*<br>
+*Jun 2019 - Aug 2019*
+
+* **The University of Texas at Austin | Department of Geological Sciences** <br>
+*Ph. D. Student* <br>
+*Aug 2018 - Aug 2023* 
 
 * **The Chinese University of Hong Kong | Earth and Atmospheric Sciences**<br>
-*Master’s Student in Dr. Chi Yung Francis Tam group*<br>
-*Summer 2016 - Summer 2018*
+*M. Phil. Student*<br>
+*Aug 2016 - Aug 2018*
 
 * **The Chinese University of Hong Kong | Earth System Science Programme**<br>
-*Undergraduate Researcher in Dr. Man Nin Chan group*<br>
-*Fall 2015 - Summer 2016* 
+*Undergraduate Researcher*<br>
+*Sep 2015 - Jul 2016* 
 
 * **Hong Kong Observatory** <br>
 *Research Intern in Development Team*<br>
-*Summer 2015*
+*Jun 2015 - Jul 2015*
 
 
 # Teaching Experience
 
   * **The University of Texas at Austin**
     * Climate: Past, Present, Future 
-      * Spring 2020: Lead Teaching Assitant
-      * Spring 2019: Teaching Assitant
+      * Spring 2020: Lead Teaching Assistant
+      * Spring 2019: Teaching Assistant
     * Physical Geology 
-      * Fall 2019: Teaching Assitant
+      * Fall 2019: Teaching Assistant
 
   * **The Chinese University of Hong Kong**
     * Tropical Meteorology
